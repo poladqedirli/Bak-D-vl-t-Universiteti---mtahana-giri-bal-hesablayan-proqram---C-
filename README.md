@@ -1,2 +1,2 @@
-# Bak-D-vl-t-Universiteti---mtahana-giri-bal-hesablayan-proqram---C-
-Bakı Dövlət Universitetində imtahana giriş balı : Seminarda topladığınız balları toplayaraq sayına bölün (ədədi ortası) , alınan 
+# Bak-D-vl-t-Universiteti---mtahana-giri-bal-hesablayan-proqram---C++
+Bakı Dövlət Universitetində imtahana giriş balı : Seminarda topladığınız balları toplayaraq sayına bölün (ədədi ortası) , alınan ədədi 0.4-ə vurun, daha sonra kollekviumda aldığınız qiymətləri toplayıb sayına bölün, alınan ədədi 0.6-ya vurun, seminar və kollekviumda aldğınız yekun qiymətləri toplayıb 3-ə vurun, alınan nəticəyə dəvamiyyət balını gəlin, daha sonra yekun olaraq sərbəst iş balını gəlin.
